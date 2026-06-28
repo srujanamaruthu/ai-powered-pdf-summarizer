@@ -1,0 +1,37 @@
+# Virtual environment
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+ENV/
+
+# Python cache and byte-code
+**/__pycache__/
+*.py[cod]
+*$py.class
+backend/.pytest_cache/
+
+# Local configuration files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Node dependencies
+frontend/node_modules/
+node_modules/
+
+# Production build output
+frontend/dist/
+dist/
+
+# Editor/OS temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backend uploads and temporary PDFs
+backend/uploads/*
+!backend/uploads/.gitkeep

@@ -1,0 +1,13 @@
+flask==3.0.3
+flask-cors==4.0.1
+pypdf==4.2.0
+nltk==3.8.1
+openai==1.25.1
+gunicorn==21.2.0
+
+# Optional dependencies (Requires large downloads/build tools/compilation)
+# pdfplumber==0.11.0
+# sumy==0.11.0
+# pymupdf==1.24.2
+# transformers==4.40.1
+# torch==2.3.0 --extra-index-url https://download.pytorch.org/whl/cpu
