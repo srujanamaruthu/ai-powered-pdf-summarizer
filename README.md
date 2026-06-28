@@ -1,7 +1,7 @@
 # AI-Powered PDF Summarizer
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-blue?style=for-the-badge&logo=react)](https://YOUR-FRONTEND-URL.onrender.com)
-[![Backend API](https://img.shields.io/badge/API-Online-green?style=for-the-badge&logo=flask)](https://YOUR-BACKEND-URL.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-blue?style=for-the-badge&logo=react)](https://pdf-summarizer-frontend-ahc3.onrender.com)
+[![Backend API](https://img.shields.io/badge/API-Online-green?style=for-the-badge&logo=flask)](https://ai-powered-pdf-summarizer.onrender.com)
 
 A modern, responsive web application that extracts text from PDF documents and generates summaries of adjustable lengths (Short, Medium, Detailed) using multiple NLP approaches (TextRank, OpenAI GPT). It features a premium light blue and white glassmorphism user interface.
 
